@@ -6,7 +6,7 @@ is_a(sun,star).
 is_a(crisis,over_population).
 is_a(crisis,societal_collapse).
 is_a(crisis,war).
-is_a(crisis,ecosystem _collapse).
+is_a(crisis,ecosystem_collapse).
 is_a(crisis,climate_change).
 is_a(crisis,et_event).
 
