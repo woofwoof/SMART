@@ -3,12 +3,12 @@ is_a(mars,planet).
 is_a(moon, satellite).
 is_a(sun,star).
 
-is_a(crisis,over_population).
-is_a(crisis,societal_collapse).
-is_a(crisis,war).
-is_a(crisis,ecosystem_collapse).
-is_a(crisis,climate_change).
-is_a(crisis,et_event).
+is_a(over_population,crisis).
+is_a(societal_collapse,crisis).
+is_a(war,crisis).
+is_a(ecosystem_collapse,crisis).
+is_a(climate_change,crisis).
+is_a(et_event,crisis).
 
 orbits(moon,earth).
 orbits(earth,sun).
