@@ -1,2 +1,2 @@
 # SMART
-Social Model Alternatives Response Technology
+Social Model Alternative Responses Technology
