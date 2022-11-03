@@ -3,6 +3,8 @@ Social Model Alternative Response Trajectories
 
 Designed for SWI Prolog ('SWIPL'), see https://www.swi-prolog.org/
 
+Use e.g. ["SMART1.pl"] to execute the code (see SWIPL manual for more information).
+
 Try these example queries at the SWPIL command prompt (worked under Termux on Android) followed by semicolon after each returned answer:
 
 is_a(X,planet).
@@ -10,6 +12,8 @@ is_a(X,planet).
 is_a(crisis,Y).
 
 orbits(A,B).
+
+are(humans,Y),are(Y,threatened),is_a(Z,crisis).
 
 Here is the semantic network:
 
