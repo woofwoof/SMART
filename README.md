@@ -15,6 +15,8 @@ orbits(A,B).
 
 are(humans,Y),are(Y,threatened),is_a(Z,crisis).
 
+are(humans,Y),are(Y,X),by(X,A),is_a(Z,A).
+
 Here is the semantic network:
 
 ![SMART1 Semantic Network 031122](https://user-images.githubusercontent.com/6171578/199735607-00a30321-4b6e-4c32-86d9-22d2a1687106.jpg)
