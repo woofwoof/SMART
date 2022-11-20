@@ -131,7 +131,8 @@ comprises_of(earth,land).
 by(threatened,crisis).
 
 can_be(war,nuclear).
-can_be(war, chemical).
+can_be(war,chemical).
 can_be(war,biological).
 can_be(war,conventional).
 can_be(war,cyber).
+can_be(war,space).
