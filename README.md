@@ -5,7 +5,7 @@ Designed for SWI Prolog ('SWIPL'), see https://www.swi-prolog.org/
 
 Use e.g. ["SMART1.pl"] to execute the code (see SWIPL manual for more information) then type "smart." at the command prompt.
 
-Follow the prompts to use the in-built (albet rudimentary at this stage) menu system.
+Follow the prompts to use the in-built (albeit rudimentary at this stage) menu system.
 
 Here is the (original) semantic network (it will be updated as time allows - see the code):
 
