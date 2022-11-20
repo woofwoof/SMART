@@ -17,6 +17,6 @@ are(humans,Y),are(Y,threatened),is_a(Z,crisis).
 
 are(humans,Y),are(Y,X),by(X,A),is_a(Z,A).
 
-Here is the semantic network:
+Here is the (original) semantic network (it will be updated as time allows - see the code):
 
 ![SMART1 Semantic Network 031122](https://user-images.githubusercontent.com/6171578/199735607-00a30321-4b6e-4c32-86d9-22d2a1687106.jpg)
