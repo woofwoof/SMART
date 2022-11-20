@@ -3,7 +3,7 @@ Social Model Alternative Response Trajectories
 
 Designed for SWI Prolog ('SWIPL'), see https://www.swi-prolog.org/
 
-Use e.g. ["SMART1.pl"] to execute the code (see SWIPL manual for more information).
+Use e.g. ["SMART1.pl"] to execute the code (see SWIPL manual for more information) then "smart." at the command prompt.
 
 Try these example queries at the SWPIL command prompt (worked under Termux on Android) followed by semicolon after each returned answer:
 
